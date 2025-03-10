@@ -44,7 +44,6 @@ Date,Name,Year,Letterboxd URI,Rating
 2021-11-29,It,1990,https://boxd.it/26tG,2
 2021-11-29,It,2017,https://boxd.it/bC8e,4.5
 2021-11-29,It Chapter Two,2019,https://boxd.it/h10u,4
-2021-11-29,Dawn of the Dead,2004,https://boxd.it/29gK,3.5
 2021-11-29,World War Z,2013,https://boxd.it/2p2E,1.5
 2021-11-29,Hush,2016,https://boxd.it/d5ys,3.5
 2021-11-29,Unfriended,2014,https://boxd.it/8sXg,1
@@ -404,7 +403,6 @@ Date,Name,Year,Letterboxd URI,Rating
 2023-04-12,Return of the Jedi,1983,https://boxd.it/27Vm,3
 2023-04-12,X-Men Origins: Wolverine,2009,https://boxd.it/27ug,2
 2023-04-12,The Wolverine,2013,https://boxd.it/2CWU,2
-2023-04-12,The Fast and the Furious,2001,https://boxd.it/1XMu,2
 2023-04-12,Bridge to Terabithia,2007,https://boxd.it/28YG,3.5
 2023-04-12,Judas and the Black Messiah,2021,https://boxd.it/lsew,3
 2023-04-12,Guardians of the Galaxy Vol. 2,2017,https://boxd.it/8MxC,3
@@ -428,7 +426,6 @@ Date,Name,Year,Letterboxd URI,Rating
 2023-04-12,Sherlock Holmes,2009,https://boxd.it/1W2A,2.5
 2023-04-12,Tangled,2010,https://boxd.it/15gO,2
 2023-04-12,School of Rock,2003,https://boxd.it/28xK,3
-2023-04-13,Sound of Metal,2019,https://boxd.it/i7Q4,2.5
 2023-04-19,Mr. & Mrs. Smith,2005,https://boxd.it/29CG,3
 2023-04-21,Train to Busan,2016,https://boxd.it/dSQU,2.5
 2023-04-26,The Batman,2022,https://boxd.it/eDGs,1.5
@@ -441,7 +438,6 @@ Date,Name,Year,Letterboxd URI,Rating
 2023-05-11,Dunkirk,2017,https://boxd.it/d0Y6,2.5
 2023-05-17,Limite,1931,https://boxd.it/20iW,1.5
 2023-05-18,Return to Seoul,2022,https://boxd.it/zXDg,4
-2023-05-24,Furie,2019,https://boxd.it/kP80,2.5
 2023-05-24,Hereditary,2018,https://boxd.it/hNVe,1
 2023-05-29,The Little Mermaid,1989,https://boxd.it/1WYO,1.5
 2023-05-29,John Wick: Chapter 4,2023,https://boxd.it/mh48,3.5
@@ -677,7 +673,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2024-08-26,Starship Troopers,1997,https://boxd.it/2a7k,3.5
 2024-08-27,Unforgiven,1992,https://boxd.it/6Z4,4
 2024-08-31,Heat,1995,https://boxd.it/2bg8,4
-2024-09-02,Le Corbeau,1943,https://boxd.it/1ofg,4
+2024-09-02,Le Corbeau,1947,https://boxd.it/1ofg,4
 2024-09-02,Cure,1997,https://boxd.it/1blA,5
 2024-09-02,Rope,1948,https://boxd.it/28yo,4
 2024-09-08,The Discreet Charm of the Bourgeoisie,1972,https://boxd.it/2440,4
@@ -728,7 +724,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2024-10-23,Fireworks,1997,https://boxd.it/22mQ,2
 2024-10-24,Eyes Without a Face,1960,https://boxd.it/1j9i,3.5
 2024-10-25,The Wicker Man,1973,https://boxd.it/1KnG,4.5
-2024-10-26,StageFright,1987,https://boxd.it/1Drm,3.5
+2024-10-26,Stage Fright,1987,https://boxd.it/1Drm,3.5
 2024-10-28,Rats: Night of Terror,1984,https://boxd.it/2VbS,2
 2024-10-28,New Nightmare,1994,https://boxd.it/1TsU,4.5
 2024-10-30,The Phantom Carriage,1921,https://boxd.it/l4s,4
@@ -753,7 +749,6 @@ Date,Name,Year,Letterboxd URI,Rating
 2025-01-03,To Live,1994,https://boxd.it/1j6S,3
 2025-01-05,Thief,1981,https://boxd.it/1TEc,4.5
 2025-01-06,The Big Boss,1971,https://boxd.it/1RU8,3
-2025-01-06,Daisies,1966,https://boxd.it/LZk,4
 2025-01-06,The Killer,1989,https://boxd.it/1Vha,5
 2025-01-13,Hard Boiled,1992,https://boxd.it/1T6a,4.5
 2025-01-14,Candyman,1992,https://boxd.it/1Ys6,1
@@ -803,3 +798,13 @@ Date,Name,Year,Letterboxd URI,Rating
 2025-02-28,The Suicide Squad,2021,https://boxd.it/fw6O,2
 2025-02-28,8 Mile,2002,https://boxd.it/2bew,2
 2025-02-28,Marcel the Shell with Shoes On,2021,https://boxd.it/wMAk,2
+2025-03-02,Sound of Metal,2019,https://boxd.it/i7Q4,2
+2025-03-02,"Merry Christmas, Mr. Lawrence",1983,https://boxd.it/1SHu,2
+2025-03-03,Daisies,1966,https://boxd.it/LZk,3
+2025-03-04,Dawn of the Dead,2004,https://boxd.it/29gK,2
+2025-03-05,Oasis,2002,https://boxd.it/1sO0,4.5
+2025-03-06,Bedevilled,2010,https://boxd.it/2iWK,2
+2025-03-06,Gosford Park,2001,https://boxd.it/239e,2
+2025-03-06,Furie,2019,https://boxd.it/kP80,2
+2025-03-06,Furies,2022,https://boxd.it/BmlI,1
+2025-03-10,The Fast and the Furious,2001,https://boxd.it/1XMu,1
